@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT [OrderID])
+FROM [GroupOP].[dbo].[Orders]
